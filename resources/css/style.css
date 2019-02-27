@@ -9,3 +9,31 @@ h1 {
 body {
   background-color: black;
 }
+.four {
+  text-decoration:underline;
+  color: aquamarine;
+  font-size: 16 px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+.two {
+  font-family: verdana;
+  font-weight: 300 px;
+  font-size: 42px;
+}
+#three {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+#tent, #phone {
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+}
